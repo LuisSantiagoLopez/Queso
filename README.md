@@ -1,3 +1,11 @@
 # Queso
-Primer repositorio
-puto el q lo lea
+
+#Renato
+
+#Santi
+
+#Fer 
+
+#Nacho
+
+#Sara
