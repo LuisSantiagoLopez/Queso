@@ -5,7 +5,11 @@
 
 #Santi
 
-#Fer 
+#Fer
+
+**a+b**
+**b-a**
+**a/b** 
 
 #Nacho
 
