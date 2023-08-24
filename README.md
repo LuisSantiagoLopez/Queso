@@ -2,7 +2,7 @@
 # Queso
 
 #Renato
-
+b * a / 2
 #Santi
 
 #Fer 
