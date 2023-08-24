@@ -1,16 +1,17 @@
 <<<<<<< HEAD
+
 # Queso
 
 #Renato
 
 #Santi
 
-#Fer 
+#Fer
 
 #Nacho
 
-#Sara
-=======
+# #Sara
+
 # Basic Commands Guide
 
 ## Git Commands
@@ -132,7 +133,29 @@
 
 10. **Display current directory path**:
     `bash
-    pwd
-    `
-    > > > > > > > master
->>>>>>> 69fb4b64a2db330b5028899894c21d4278eb3722
+pwd
+` > > > > > > > master > > > > > > > 69fb4b64a2db330b5028899894c21d4278eb372 > > > > > > >
+
+# Luis Santiago
+
+# Principio de Incertidumbre de Heisenberg
+
+El Principio de Incertidumbre de Heisenberg es un concepto fundamental en la mecánica cuántica. Establece que hay ciertos pares de propiedades físicas (como la posición y el momento) que no pueden ser medidas con precisión al mismo tiempo. Cuanto más precisa sea la medición de una propiedad, menos precisamente se puede conocer la otra. Esto no es una limitación de la tecnología de medición, sino un aspecto fundamental de la naturaleza de las partículas en el reino cuántico.
+
+## Fórmula:
+
+La expresión del principio más comúnmente referida, en términos de posición \( \Delta x \) y momento \( \Delta p \) es:
+
+\[ \Delta x \cdot \Delta p \geq \frac{\hbar}{2} \]
+
+Donde:
+
+- \( \Delta x \) es la incertidumbre en posición.
+- \( \Delta p \) es la incertidumbre en momento.
+- \( \hbar \) es la constante de Planck reducida, igual a \( \frac{h}{2\pi} \), donde \( h \) es la constante de Planck (~6.62607015 × 10^-34 m^2 kg / s).
+
+## Interpretación:
+
+La fórmula significa que el producto de las incertidumbres en posición y momento siempre será mayor o igual a la mitad de la constante de Planck reducida. A medida que una incertidumbre disminuye, la otra debe aumentar de manera que su producto permanezca por encima de este umbral.
+
+En esencia, el Principio de Incertidumbre de Heisenberg encapsula la incertidumbre intrínseca y la naturaleza probabilística de los sistemas cuánticos, diferenciándose profundamente de nuestra intuición clásica.
