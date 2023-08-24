@@ -153,9 +153,3 @@ Donde:
 - Δx es la incertidumbre en posición.
 - Δp es la incertidumbre en momento.
 - h/2 es la mitad de la constante de Planck, que es aproximadamente 3.3135 x 10^-34 m^2 kg / s.
-
-## Interpretación:
-
-La fórmula significa que el producto de las incertidumbres en posición y momento siempre será mayor o igual a la mitad de la constante de Planck reducida. A medida que una incertidumbre disminuye, la otra debe aumentar de manera que su producto permanezca por encima de este umbral.
-
-En esencia, el Principio de Incertidumbre de Heisenberg encapsula la incertidumbre intrínseca y la naturaleza probabilística de los sistemas cuánticos, diferenciándose profundamente de nuestra intuición clásica.
