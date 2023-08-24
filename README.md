@@ -140,19 +140,19 @@ pwd
 
 # Principio de Incertidumbre de Heisenberg
 
-El Principio de Incertidumbre de Heisenberg es un concepto fundamental en la mecánica cuántica. Establece que hay ciertos pares de propiedades físicas (como la posición y el momento) que no pueden ser medidas con precisión al mismo tiempo. Cuanto más precisa sea la medición de una propiedad, menos precisamente se puede conocer la otra. Esto no es una limitación de la tecnología de medición, sino un aspecto fundamental de la naturaleza de las partículas en el reino cuántico.
+El Principio de Incertidumbre de Heisenberg es un concepto fundamental en la mecánica cuántica. Establece que hay ciertos pares de propiedades físicas (como la posición y el momento) que no pueden ser medidas con precisión al mismo tiempo.
 
 ## Fórmula:
 
-La expresión del principio más comúnmente referida, en términos de posición \( \Delta x \) y momento \( \Delta p \) es:
+La expresión más común del principio, en términos de posición Δx y momento Δp es:
 
-\[ \Delta x \cdot \Delta p \geq \frac{\hbar}{2} \]
+`Δx * Δp >= h/2`
 
 Donde:
 
-- \( \Delta x \) es la incertidumbre en posición.
-- \( \Delta p \) es la incertidumbre en momento.
-- \( \hbar \) es la constante de Planck reducida, igual a \( \frac{h}{2\pi} \), donde \( h \) es la constante de Planck (~6.62607015 × 10^-34 m^2 kg / s).
+- Δx es la incertidumbre en posición.
+- Δp es la incertidumbre en momento.
+- h/2 es la mitad de la constante de Planck, que es aproximadamente 3.3135 x 10^-34 m^2 kg / s.
 
 ## Interpretación:
 
